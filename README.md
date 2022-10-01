@@ -6,5 +6,5 @@ The requirements are as follows
 3. Dry cell batteries for power
 4. ultrasonic sensor
 5. Bridgemotor
-6. Hc-05 compressor
+6. Hc-05 compressed
 
